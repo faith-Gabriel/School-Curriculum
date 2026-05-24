@@ -15,22 +15,23 @@ School-Curriculum/
 ├── README.md                        ← You are here
 ├── CONTRIBUTING.md                  ← How to make changes
 ├── LESSON_TEMPLATE.md               ← Template for new lessons
-│-- Primary one
-├── Term-1/
-│   ├── Week-01/
-│   │   ├── lesson.md                ← Lesson plan and content
-│   │   └── exercises.md             ← Student exercises
-│   ├── Week-02/
-│   │   ├── lesson.md
-│   │   └── exercises.md
-│   ├── Week-03/
-│   ├── Week-04/
-│   ├── Week-05/
-│   ├── Week-06/
-│   ├── Week-07/
-│   ├── Week-08/
-│   ├── Week-09/
-│   └── Week-10/
+│-- curriculum
+    ├── Primary one
+│       ├── Term 1
+│   │      ├── Week one               ← Lesson plan and content
+│   │          ├── Lesson.md
+               └── exercise.md        ← Student exercises
+│          ├── Week-02/
+│   │          ├── lesson.md
+│   │          └── exercises.md
+│          ├── Week-03/
+│          ├── Week-04/
+│          ├── Week-05/
+│          ├── Week-06/
+│          ├── Week-07/
+│          ├── Week-08/
+│          ├── Week-09/
+│          └── Week-10/
 │
 ├── Term-2/
 │   ├── Week-01/
