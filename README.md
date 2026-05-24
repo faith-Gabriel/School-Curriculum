@@ -8,14 +8,14 @@ This is where all lesson content, exercises, and teaching materials are stored, 
 
 ## 🗂️ What is in this repository?
 
-This repository contains the full school curriculum organised by term and week. Each week folder holds a lesson file and an exercises file. Shared assets like images and worksheets are stored in the `assets/` folder.
+This repository contains the full school curriculum organised by class, term and week. Each class folder holds a term file, a week file and a lesson file and an exercises file. Shared assets like images and worksheets are stored in the `assets/` folder.
 
 ```
 School-Curriculum/
 ├── README.md                        ← You are here
 ├── CONTRIBUTING.md                  ← How to make changes
 ├── LESSON_TEMPLATE.md               ← Template for new lessons
-│
+│-- Primary one
 ├── Term-1/
 │   ├── Week-01/
 │   │   ├── lesson.md                ← Lesson plan and content
